@@ -17,7 +17,7 @@
 		decentralisation.
 	</p>
 	<div>
-		<a class="link" href="https://github.com/rainprotocol">Github</a>
+		<a class="link" href="https://github.com/rainlanguage">Github</a>
 		<a class="link" href="https://docs.rainprotocol.xyz/core-concepts/introduction">Core concepts</a
 		>
 		<a class="link" href="https://docs.rainprotocol.xyz/orderbook/introduction">Orderbook</a>
