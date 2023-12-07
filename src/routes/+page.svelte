@@ -1,10 +1,7 @@
 <script>
 	import '../app.postcss';
 	import logo from '$lib/logo.svg';
-	import SplineScene from '$lib/SplineScene.svelte';
 </script>
-
-<SplineScene />
 
 <div class="min-h-screen w-full flex flex-col items-center justify-center p-6 z-50 gap-y-12">
 	<div class="flex flex-col items-center gap-y-2">
@@ -16,10 +13,9 @@
 		grounded in our belief that accessibility is the difference between theoretical and practical
 		decentralisation.
 	</p>
-	<div>
+	<div class="flex justify-center flex-wrap gap-2">
 		<a class="link" href="https://github.com/rainlanguage">Github</a>
-		<a class="link" href="https://docs.rainlang.xyz/core-concepts/introduction">Core concepts</a
-		>
+		<a class="link" href="https://docs.rainlang.xyz/core-concepts/introduction">Core concepts</a>
 		<a class="link" href="https://docs.rainlang.xyz/orderbook/introduction">Orderbook</a>
 		<a
 			class="link"
