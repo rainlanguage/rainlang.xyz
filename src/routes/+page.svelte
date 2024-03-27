@@ -9,7 +9,7 @@
 	</div>
 	<p class="max-w-lg text-center">
 		Rainlang is a smart contract language designed to be easier to read and write. If you can write
-		an Excel formula, you can learn to write Rainlang.
+		an Excel formula, you can learn to write rainlang.
 	</p>
 	<div class="flex justify-center flex-wrap gap-2">
 		<a class="link" href="https://github.com/rainlanguage">Github</a>
