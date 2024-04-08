@@ -34,11 +34,6 @@
 	<div class="flex justify-center flex-wrap gap-2">
 		<a class="link" href="https://github.com/rainlanguage">Github</a>
 		<a class="link" href="https://docs.rainlang.xyz/core-concepts/introduction">Core concepts</a>
-		<a
-			class="link"
-			href="https://docs.rainlang.xyz/learning-rainlang/introduction/introduction-to-rainlang"
-			>Learning Rainlang</a
-		>
 		<a class="link" href="https://docs.rainlang.xyz/blog">Blog</a>
 	</div>
 </div>
