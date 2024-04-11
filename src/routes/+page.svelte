@@ -17,9 +17,7 @@
 			class="link bg-blue-700 border-none text-white"
 			href="https://docs.rainlang.xyz/raindex/download">Download app</a
 		>
-		<a class="link" href="https://docs.rainlang.xyz/raindex/example-strats/writing-strategies"
-			>Learn Raindex</a
-		>
+		<a class="link" href="https://docs.rainlang.xyz/raindex/getting-started">Get started</a>
 	</div>
 	<div
 		class="h-[1px] bg-gradient-to-r from-transparent via-blue-500 to-transparent max-w-lg w-full my-4"
