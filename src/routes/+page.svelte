@@ -17,9 +17,7 @@
 			class="link bg-blue-700 border-none text-white"
 			href="https://docs.rainlang.xyz/raindex/download">Download app</a
 		>
-		<a class="link" href="https://docs.rainlang.xyz/raindex/example-strats/writing-strategies"
-			>Learn Raindex</a
-		>
+		<a class="link" href="https://docs.rainlang.xyz/raindex/overview">Learn Raindex</a>
 	</div>
 	<div
 		class="h-[1px] bg-gradient-to-r from-transparent via-blue-500 to-transparent max-w-lg w-full my-4"
@@ -33,7 +31,7 @@
 	</p>
 	<div class="flex justify-center flex-wrap gap-2">
 		<a class="link" href="https://github.com/rainlanguage">Github</a>
-		<a class="link" href="https://docs.rainlang.xyz/core-concepts/introduction">Core concepts</a>
+		<a class="link" href="https://docs.rainlang.xyz/intro">Learn</a>
 		<a class="link" href="https://docs.rainlang.xyz/blog">Blog</a>
 	</div>
 </div>
