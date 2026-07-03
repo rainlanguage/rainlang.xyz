@@ -13,10 +13,10 @@
 		on any EVM network.
 	</p>
 	<div class="flex justify-center flex-wrap gap-2">
-		<a
-			class="link bg-blue-700 border-none text-white"
-			href="https://docs.rainlang.xyz/raindex/download">Download app</a
+		<a class="link bg-blue-700 border-none text-white" href="https://raindex.finance/orders"
+			>Open app</a
 		>
+		<a class="link" href="https://docs.rainlang.xyz/raindex/download">Download app</a>
 		<a class="link" href="https://docs.rainlang.xyz/raindex/overview">Learn Raindex</a>
 	</div>
 	<div
